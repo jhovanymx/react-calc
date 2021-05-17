@@ -1,0 +1,7 @@
+{
+  "infiniteLoopProtection": true,
+  "hardReloadOnChange": true,
+  "view": "terminal",
+  "port": 300,
+  "startScript": "start"
+}
